@@ -1,5 +1,6 @@
 #ide folders and stuff
 .idea/
+/idea
 
 # dependencies
 /node_modules
